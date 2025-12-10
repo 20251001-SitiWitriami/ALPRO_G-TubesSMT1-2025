@@ -1,5 +1,5 @@
-# Tugas Besar Algoritma dan Pemrograman 2025 Kelas A
-Repository Kelas Alpro A untuk pengumpulan source code Tugas Besar Mata Kuliah Algoritma dan Pemrograman Semester 1.
+# Tugas Besar Algoritma dan Pemrograman 2025 Kelas G
+Repository Kelas Alpro G untuk pengumpulan source code Tugas Besar Mata Kuliah Algoritma dan Pemrograman Semester 1.
 
 ## Informasi Repository
 - **Mata Kuliah**: Algoritma dan Pemrograman
@@ -43,7 +43,7 @@ NIM_NamaLengkap_JudulTubes.py
 ## ❗ Cara Upload Source Code
 
 ### 1. Via GitHub Web (Recommended)
-1. Buka repository ini: `https://github.com/desyadelina/ALPRO_A-TubesSMT1-2025`
+1. Buka repository ini: `https://github.com/desyadelina/ALPRO_G-TubesSMT1-2025`
 2. Masuk ke folder `submissions/`
 3. Klik tombol **"Add file"** → **"Upload files"**
 4. Drag & drop file `.py` kamu atau klik **"choose your files"**
@@ -54,7 +54,7 @@ NIM_NamaLengkap_JudulTubes.py
 ### 2. Via Pull Request (Alternatif)
 1. Fork repository ini
 2. Clone repository hasil fork ke komputer kamu
-3. Tambahkan file source code kamu ke folder `submissions/` link: https://github.com/desyadelina/ALPRO_A-TubesSMT1-2025/tree/main/submissions
+3. Tambahkan file source code kamu ke folder `submissions/` link: https://github.com/desyadelina/ALPRO_G-TubesSMT1-2025/tree/main/submissions
 4. Commit dan push ke repository fork kamu
 5. Buat Pull Request ke repository utama
 
